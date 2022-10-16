@@ -1,3 +1,11 @@
+Assignment done
+
+Just do npm start
+
+It might take some time for data to fetch from the api
+
+Type in the input box to filter for results
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
